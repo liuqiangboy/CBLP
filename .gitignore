@@ -5,4 +5,9 @@ venv/examples/
 venv/include/
 venv/lib/
 venv/share/
+venv/quality
 venv/.Python
+venv/*.pyc
+*.txt
+*.json
+
