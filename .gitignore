@@ -1,0 +1,8 @@
+networkx/
+venv/bin/
+venv/dataset/
+venv/examples/
+venv/include/
+venv/lib/
+venv/share/
+venv/.Python
